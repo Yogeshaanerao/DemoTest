@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="4" total="5" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="1750" started-at="2023-03-10T03:46:36Z" finished-at="2023-03-10T03:46:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="1750" started-at="2023-03-10T03:46:36Z" finished-at="2023-03-10T03:46:38Z">
+      <class name="restassured.JiraAPIs">
+        <test-method status="PASS" signature="deleteComment()[pri:0, instance:restassured.JiraAPIs@8e0379d]" name="deleteComment" duration-ms="1731" started-at="2023-03-10T03:46:36Z" finished-at="2023-03-10T03:46:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteComment -->
+      </class> <!-- restassured.JiraAPIs -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
